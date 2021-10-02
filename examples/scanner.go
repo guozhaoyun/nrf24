@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/nrf24"
+	"github.com/guozhaoyun/nrf24"
 )
 
 var (
